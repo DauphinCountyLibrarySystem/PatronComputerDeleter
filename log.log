@@ -1,0 +1,4 @@
+2015-07-22 16:45:53,536 - __main__ - ERROR - error message
+2015-07-22 16:45:53,537 - __main__ - CRITICAL - critical message
+2015-07-22 16:46:09,951 - __main__ - ERROR - error message
+2015-07-22 16:46:09,952 - __main__ - CRITICAL - critical message
