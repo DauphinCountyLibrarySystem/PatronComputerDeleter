@@ -10,7 +10,7 @@ import os
 import sys
 import logging
 import optparse
-
+import xml.etree.ElementTree as ET
 LOG = None
 
 
@@ -60,7 +60,9 @@ def main(argv=None):
 
     # application code here, like:
     # run(settings, args)
-
+    zFile = open('log.log','r')
+    for line in zFile.readlines():
+        print(line, end='')
     return 0  # success
 
 

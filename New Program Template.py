@@ -1,3 +1,5 @@
+from __builtin__ import open
+
 __author__ = 'lbodnyk'
 # !/usr/bin/env python
 # encoding: utf-8
